@@ -1,6 +1,6 @@
 {
   "name": "jest-static-stubs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Static media type stubs for use in jest tests",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DimitarChristoff/jest-static-stubs.git"
+    "url": "git+https://github.com/englishdom/jest-static-stubs.git"
   },
   "keywords": [
     "jest",
